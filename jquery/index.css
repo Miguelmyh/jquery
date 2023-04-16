@@ -1,0 +1,26 @@
+.intro{
+    text-align: center;
+    align-items: center;
+}
+.results{
+    width: 100%;;
+    display: flex;
+    justify-content: space-around;
+}
+
+.results td{
+    align-items: center;
+    padding-right: 50px;
+}
+
+/* .titles{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid green;
+}
+
+.ratings {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid green;
+} */
